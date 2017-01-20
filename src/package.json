@@ -1,0 +1,26 @@
+{
+  "name": "travelplanner",
+  "version": "1.0.0",
+  "description": "Travel with New Friends",
+  "main": "App.js",
+  "dependencies": {
+    "react": "^15.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccarey221/TravelPlanner.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "Conor Carey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccarey221/TravelPlanner/issues"
+  },
+  "homepage": "https://github.com/ccarey221/TravelPlanner#readme"
+}
